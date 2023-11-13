@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Food</string>
+    <string name="app_name">ReclamationCrud</string>
+
+    <string-array name="etat">
+        <item>En attente</item>
+        <item>Traitée</item>
+    </string-array>
 </resources>
